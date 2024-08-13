@@ -1,0 +1,10 @@
+{
+  "Name": "autofish",
+  "Author": "dirinkbottle",
+  "Version": "1.0.0",
+  "Description": "autofish",
+  "UniqueID": "dirinkbottle.autofish",
+  "EntryDll": "autofish.dll",
+  "MinimumApiVersion": "4.0.0",
+  "UpdateKeys": []
+}
